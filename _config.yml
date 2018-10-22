@@ -14,21 +14,21 @@ author: Fábio Madeira
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Chris Turner's Resume
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io/sustain
-website_full: https://biomadeira.github.io/sustain
-github: trending
+title: Sheiny Fabre's Resume
+name: Sheiny Fabre Almeida
+email: sheiny.fabre@gmail.com
+email_full: mailto:sheiny.fabre@gmail.com
+website: sheiny.github.io
+website_full: https://sheiny.github.io
+github: https://github.com/sheiny/
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+tel: +55 48 996347306
+tel_full: tel:+5548996347306
+google_maps: 'https://www.google.com.br/maps/place/Departamento+de+Inform%C3%A1tica+e+Estat%C3%ADstica+-+INE/@-27.6005034,-48.5191306,17z/data=!4m12!1m6!3m5!1s0x952739ab06a8bca7:0x9904bca1385e0f9d!2sUniversidade+Federal+de+Santa+Catarina+Campus+Florian%C3%B3polis!8m2!3d-27.6007034!4d-48.5191775!3m4!1s0x0000000000000000:0xc2fd35f96d3fb9b3!8m2!3d-27.6005658!4d-48.5185733?hl=pt-BR'
+address: Campus Universitário
+postcode: 88040-900
+city: Florianópolis
+country: Brazil
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
